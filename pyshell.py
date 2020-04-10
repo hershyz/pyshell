@@ -162,6 +162,7 @@ def init():
     print(" | .__/ \__, |___/_| |_|\___|_|_|")
     print(" | |     __/ |                   ")
     print(" |_|    |___/                    \n")
+    print("'help' for help\n")
 
 init()
 commandLoop()
